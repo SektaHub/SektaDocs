@@ -1,0 +1,19 @@
+{
+  "id": "SektaReels/index",
+  "title": "SektaReels",
+  "description": "Welcome to the SektaReels documentation",
+  "source": "@site/docs/SektaReels/index.md",
+  "sourceDirName": "SektaReels",
+  "slug": "/SektaReels/",
+  "permalink": "/docs/SektaReels/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/docs/Docosaurus/tutorial-extras/translate-your-site"
+  }
+}

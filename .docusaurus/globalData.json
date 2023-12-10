@@ -1,0 +1,83 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "Docosaurus/tutorial-basics/create-a-page",
+          "docs": [
+            {
+              "id": "Docosaurus/tutorial-basics/congratulations",
+              "path": "/docs/Docosaurus/tutorial-basics/congratulations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Docosaurus/tutorial-basics/create-a-blog-post",
+              "path": "/docs/Docosaurus/tutorial-basics/create-a-blog-post",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Docosaurus/tutorial-basics/create-a-document",
+              "path": "/docs/Docosaurus/tutorial-basics/create-a-document",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Docosaurus/tutorial-basics/create-a-page",
+              "path": "/docs/Docosaurus/tutorial-basics/create-a-page",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Docosaurus/tutorial-basics/deploy-your-site",
+              "path": "/docs/Docosaurus/tutorial-basics/deploy-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Docosaurus/tutorial-basics/markdown-features",
+              "path": "/docs/Docosaurus/tutorial-basics/markdown-features",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Docosaurus/tutorial-extras/manage-docs-versions",
+              "path": "/docs/Docosaurus/tutorial-extras/manage-docs-versions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Docosaurus/tutorial-extras/translate-your-site",
+              "path": "/docs/Docosaurus/tutorial-extras/translate-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SektaReels/index",
+              "path": "/docs/SektaReels/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/tutorial---basics",
+              "path": "/docs/category/tutorial---basics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/tutorial---extras",
+              "path": "/docs/category/tutorial---extras",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/category/tutorial---basics",
+                "label": "Tutorial - Basics"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}
